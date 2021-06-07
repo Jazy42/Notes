@@ -24,3 +24,23 @@ function MaxMin(arr, minmax) {
 }
 console.log(MaxMin(Arr, "Maximum"));
 console.log(MaxMin(Arr, "Minimum"));
+
+//Using forEach
+//max
+const Arr2 = [1, 2, -3, -5, 100000, -100000];
+var largest = 0;
+Arr2.forEach((element) => {
+  if (largest < element) {
+    largest = element;
+  }
+});
+console.log(largest);
+//min
+const Arr2 = [10, 40, 50, 80, 60];
+var smallest = 2;
+Arr2.forEach((element) => {
+  if (smallest > element) {
+    smallest = element;
+  }
+});
+console.log(smallest);
