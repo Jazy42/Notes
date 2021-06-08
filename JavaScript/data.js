@@ -12,13 +12,13 @@ export const data = {
           {
             firstName: "Nouman",
             lastName: "Nadeem",
-            email: "nn@embrace-it.com",
+            email: "nn@gmail.com",
             __typename: "Attendee",
           },
           {
             firstName: "Usman",
             lastName: "Zaheer",
-            email: "uz@embrace-it.com",
+            email: "uz@gmail.com",
             __typename: "Attendee",
           },
         ],
@@ -54,7 +54,7 @@ export const data = {
           {
             firstName: "Haseeb",
             lastName: "Rehman",
-            email: "hu@embrace-it.com",
+            email: "hu@gmail.com",
             __typename: "Attendee",
           },
         ],
@@ -222,7 +222,7 @@ export const data = {
           {
             firstName: "Taqi",
             lastName: "Mustafa",
-            email: "tm@embrace-it.com",
+            email: "tm@gmail.com",
             __typename: "Attendee",
           },
         ],
@@ -282,7 +282,7 @@ export const data = {
           {
             firstName: "Taqi",
             lastName: "Mustafa",
-            email: "tm@embrace-it.com",
+            email: "tm@gmail.com",
             __typename: "Attendee",
           },
         ],
@@ -300,13 +300,13 @@ export const data = {
           {
             firstName: "Nouman",
             lastName: "Nadeem",
-            email: "nn@embrace-it.com",
+            email: "nn@gmail.com",
             __typename: "Attendee",
           },
           {
             firstName: "Taqi",
             lastName: "Mustafa",
-            email: "tm@embrace-it.com",
+            email: "tm@gmail.com",
             __typename: "Attendee",
           },
         ],
