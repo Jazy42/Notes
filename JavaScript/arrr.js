@@ -159,4 +159,3 @@ getData("https://randomuser.me/api/")
     console.log((res));
   })
   .catch((err) => {console.log(err)});
-
